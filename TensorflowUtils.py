@@ -1,4 +1,4 @@
-__author__ = 'Charlie'
+__author__ = 'cuilunan'
 # Utils used with tensorflow implemetation
 import tensorflow as tf
 import numpy as np
