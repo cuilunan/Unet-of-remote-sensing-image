@@ -10,9 +10,9 @@
   数据量过大，如果有需要数据的朋友，可以联系我，qq:153323967
   ![error](https://github.com/cuilunan/Unet-of-remote-sensing-image/raw/master/result/groundTruth.png)
   ![error](https://github.com/cuilunan/Unet-of-remote-sensing-image/raw/master/result/input_image.png)
+  ![error](https://github.com/cuilunan/Unet-of-remote-sensing-image/raw/master/result/prediction.png)
   ![error](https://github.com/cuilunan/Unet-of-remote-sensing-image/raw/master/result/loss_train.png)
   ![error](https://github.com/cuilunan/Unet-of-remote-sensing-image/raw/master/result/loss_val.png)
-  ![error](https://github.com/cuilunan/Unet-of-remote-sensing-image/raw/master/result/prediction.png)
   ![error](https://github.com/cuilunan/Unet-of-remote-sensing-image/raw/master/result/train_acc.png)
   ![error](https://github.com/cuilunan/Unet-of-remote-sensing-image/raw/master/result/val_acc.png)
 
