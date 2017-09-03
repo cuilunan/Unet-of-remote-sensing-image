@@ -5,7 +5,7 @@
   数据集：主要采用的landsat多通道图像，根据美国官方网站提供的地物标签制作卫星图像的groundTruth,得到23000多张训练图像，每张224×224
 美国卫星数据官网：https://nassgeodata.gmu.edu/CropScape/
 
-  代码：基于tensorflow的网络结构，其中process.py是制作训练数据用的，将一张7000×8000的大卫星图片根据经纬度分割成2万多张224×224的小卫星图和相应的groundTruth.
+  代码：基于Unet的网络结构，参考keras代码修改为tensorflow版本，其中process.py是制作训练数据用的，将一张7000×8000的大卫星图片根据经纬度分割成2万多张224×224的小卫星图和相应的groundTruth.
 
   数据量过大，如果有需要数据的朋友，可以联系我，qq:153323967
 
