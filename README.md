@@ -8,9 +8,10 @@
   代码：基于tensorflow的网络结构，其中process.py是制作训练数据用的，将一张7000×8000的大卫星图片根据经纬度分割成2万多张224×224的小卫星图和相应的groundTruth.
 
   数据量过大，如果有需要数据的朋友，可以联系我，qq:153323967
-  
+
   groundTruth:
   ![error](https://github.com/cuilunan/Unet-of-remote-sensing-image/raw/master/result/groundTruth.png)
+  
   input_image:
   ![error](https://github.com/cuilunan/Unet-of-remote-sensing-image/raw/master/result/input_image.png)
   prediction:
