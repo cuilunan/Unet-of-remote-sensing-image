@@ -1,6 +1,3 @@
-"""
-Code ideas from https://github.com/Newmu/dcgan and tensorflow mnist dataset reader
-"""
 import numpy as np
 import scipy.misc as misc
 import gdal
